@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(185, 255, 127);
+}
+
+h1 {
+  color: blue;
+}
+h2 {
+  color: brown;
+}
+h3 {
+  color: darkmagenta;
+}
+h4 {
+  color: indigo;
+}
+
+#th1 {
+  color: blue;
+}
+#th2 {
+  color: blue;
+}
+#th3 {
+  color: blue;
+}
+#th4 {
+  color: blue;
+}
+.th1 {
+  color: red;
+}
+.th2 {
+  color: red;
+}
+.th3 {
+  color: red;
+}
+.th4 {
+  color: red;
+}
